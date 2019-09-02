@@ -1,0 +1,4 @@
+#Wed Feb 06 03:07:06 EST 2019
+base.0=/Users/Asish/AndroidStudioProjects/SimpleMessenger/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

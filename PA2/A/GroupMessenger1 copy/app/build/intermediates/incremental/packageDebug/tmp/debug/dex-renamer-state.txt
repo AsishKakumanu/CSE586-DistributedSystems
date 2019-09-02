@@ -1,0 +1,4 @@
+#Thu Feb 21 22:39:59 EST 2019
+base.0=/Users/Asish/Downloads/Academia- Local/University/SEM2/DS/Lab/PA2/A/GroupMessenger1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
