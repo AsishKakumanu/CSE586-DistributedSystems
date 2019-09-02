@@ -1,0 +1,4 @@
+#Wed May 08 02:53:02 EDT 2019
+base.0=/Users/Asish/Downloads/Academia- Local/University/SEM2/DS/Lab/PA3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
